@@ -9,6 +9,7 @@ By the end of this ,you will be equiped to data handle gracefully.so lets gets s
 ## Key Learning ⚡
 
 ✅Wav2Vec2 <br>
+✅HuggingFace Tokenizer <br>
 ✅Librosa <br>
 ✅Spacy <br>
 
